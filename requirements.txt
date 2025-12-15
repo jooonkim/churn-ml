@@ -1,0 +1,7 @@
+# Core ML stack (pin versions when you start experimenting)
+numpy
+pandas
+scikit-learn
+torch
+matplotlib
+seaborn
